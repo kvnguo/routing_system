@@ -1,8 +1,3 @@
-/*
-Kevin Guo
-Lab 6: This program finds the shortest path between two cities based on distance or time.
-*/
-
 #include <iostream>
 #include <string>
 #include <cmath>
